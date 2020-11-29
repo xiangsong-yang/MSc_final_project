@@ -1,5 +1,8 @@
 # Emotional Visualizer
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ByVcCXy-KTw&t=15s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=ByVcCXy-KTw&t=15s" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ## Affective computing system
 The initial ideal of this system is to use the facial capture technology, FaceOSC, combing with an
