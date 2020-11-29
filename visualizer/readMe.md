@@ -6,7 +6,7 @@ The main funcitons of these program are: (1) Receive OSC (2) Generate Graphic (3
 ## Key functions
 There are 4 keys that was assigned with functions. 
 
-number '8' - ON/OFF of the graphic
-letter 's' - Start of OSC recording
-letter 'o' - Stop recording and write csv file with name 'Test_1" and time stamp
-letter 'p' - Stop recording and write csv file with name 'Test_2" and time stamp
+### number '8' - ON/OFF of the graphic
+### letter 's' - Start of OSC recording/ 
+### letter 'o' - Stop recording and write csv file with name 'Test_1" and time stamp/
+### letter 'p' - Stop recording and write csv file with name 'Test_2" and time stamp/
