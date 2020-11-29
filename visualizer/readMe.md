@@ -1,6 +1,6 @@
 This is the source code of the visualizer developed by Xiangsong Yang. To run this code, please install the OpenFramkework, ofxOSC, ofxCSV and run the ProjectGenerator with this source code.
 
-## function
+## Function
 The main funcitons of these program are: (1) Receive OSC (2) Generate Graphic (3) Restore OSC data and write CSV data
 
 ## Key functions
